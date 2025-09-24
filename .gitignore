@@ -1,0 +1,11 @@
+*.o
+*.d
+*.mk
+*.map
+*.c.o
+*.c.d
+*.out
+*.axf
+*.s37
+*.rps
+GNU ARM v12.2.1 - Default/
