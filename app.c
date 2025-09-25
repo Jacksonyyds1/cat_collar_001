@@ -159,7 +159,7 @@ LOG_HEAP_DELTA(5);
 
   ble_ota_task_init();
 
-  leds_play(BLUE_LED, LEDS_SLOW_BLINK);
+  leds_play(BLUE_LED, LEDS_FAST_BLINK);
   leds_play(GREEN_LED, LEDS_SLOW_BLINK);
 
   // https_upload_test();
